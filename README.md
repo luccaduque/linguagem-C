@@ -1,1 +1,1 @@
-# lingaugem-C mo fita
+# C
