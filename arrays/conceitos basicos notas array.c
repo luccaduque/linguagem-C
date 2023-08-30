@@ -30,3 +30,6 @@ int main() {
         return 0;
 
 }
+
+
+//funciona parça?? carai mo fita
