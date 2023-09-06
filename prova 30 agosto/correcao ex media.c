@@ -5,9 +5,9 @@ int i;
 
     int main()
     {
-        float P1[3];
-        float P2[3];
-        float P3[3];
+        float P1[40];
+        float P2[40];
+        float P3[40];
         float m;
         float porc1;
         float porc2;
