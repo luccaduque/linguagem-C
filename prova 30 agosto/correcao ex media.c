@@ -16,7 +16,7 @@ int i;
         int reprovado = 0;
         int recup = 0;
         
-            for(i=0; i<=2; i++){
+            for(i=0; i<=39; i++){
                 
                 printf("\nInsira a nota P1 ->  ");
                 scanf("%f",&P1[i]);
@@ -51,13 +51,14 @@ int i;
             
             
     }
-                porc1 = (aprovado * 100.0) / 3;
-                porc2 = (reprovado * 100.0) / 3;
-                porc3 = (recup * 100.0) / 3;
+                porc1 = (aprovado * 100.0) / 40;
+                porc2 = (reprovado * 100.0) / 40;
+                porc3 = (recup * 100.0) / 40;
         
             
             printf("\nO numero de aprovados foi de %.2f%\n", porc1);
-            printf("O numero de reprovados foi de %.2f%\n", porc2);
-            printf("O numero de IFA foi de %.2f%\n", porc3);
+            printf("\nO numero de reprovados foi de %.2f%\n", porc2);
+            printf("\nO numero de IFA foi de %.2f%\n", porc3);
+    
     return 0;
     }
