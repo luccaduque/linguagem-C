@@ -19,7 +19,7 @@
                                 impar = vetorA[i] + impar;
                             }
                         }
-
+ 
                         printf("\nA soma de todos os numeros impares ->  %d\n", impar);
  return 0;                       
         }
