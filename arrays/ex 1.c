@@ -1,4 +1,4 @@
-//Ler 10 elementos de um vetor e apresentar os valores lidos.
+//Ler 10 elementos de um vetor e apresentar os valores lidos. 
 
 #include <stdio.h>
 int i;
