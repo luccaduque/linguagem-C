@@ -27,5 +27,5 @@
                     printf("\nPosicao %d vetorB -> %d\n", i+1, vetorB[i]);
                 }
 
-                
+                 
         }
