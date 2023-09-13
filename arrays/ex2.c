@@ -1,5 +1,5 @@
 //Ler um vetor A com 15 elementos. Construir um vetor B de mesmo tipo, sendo que cada elemento do vetor B seja o fatorial do elemento correspondente do vetor A. Apresentar o vetor B.
-
+ 
 #include <stdio.h>
 int valor, fatorial, i, cont;
 int main() {
