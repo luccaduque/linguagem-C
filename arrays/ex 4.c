@@ -3,7 +3,7 @@
 //invertidos, ou seja, o primeiro elemento de A passa a ser o último de B, o
 //segundo elemento de A passa a ser o penúltimo de B e assim por diante.
 //Apresentar os vetores A e B.
-
+ 
 #include <stdio.h> 
 
     int main()
