@@ -1,5 +1,5 @@
 //Ler dois vetores A e B com 20 elementos cada. Construir um vetor C onde, cada elemento de C é a subtração do elemento correspondente de A com B. Apresentar os vetores A, B e C.
-
+ 
 #include <stdio.h>
 int i;
     int main()
