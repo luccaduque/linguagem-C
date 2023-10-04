@@ -1,5 +1,5 @@
 #Calcula média em Python
-# não é necessário declarar variáveis em python, mas, se não declarado, será automaticamente declarado em STRING(char)
+# não é necessário declarar variáveis em python, mas, se não especificado o tipo, será automaticamente declarado em STRING(char)
 # input -> entrada de dados (leia)
 # print -> escreva 
 
